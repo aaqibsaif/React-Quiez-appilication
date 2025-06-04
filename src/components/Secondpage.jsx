@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import Thirdpage from "./Thirdpage";
-import Datafetch from "./datafetch";
+import Datafetch from "./Datafetch.jsx";
 import sound from '../assets/game-music.mp3'
 import coin from '../assets/coin.mp3'
 import { use } from "react";
